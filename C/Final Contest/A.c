@@ -6,7 +6,7 @@
 int main()
 {
     int T = 1;
-    scanf ("%d", &T);
+    //scanf ("%d", &T);
     while (T--)
     {
         long long a, b;
